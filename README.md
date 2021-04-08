@@ -1,12 +1,11 @@
 ### Jesal Panchal
 
-I am a recent grad from Hult International Business School. Passionate about making a change in the beauty industry. 
+I am a recent grad from Hult International Business School as a internation business and business analytics masters. Previously studied graphic communications with a concentration in management. Passionate about allowing data to tell the story and providing better business decisions. 
 
-- 👋 Hi, I’m @jrpanchal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am focusing on Tableau and python for the time being. If you're looking to collaborate feel free to contact me via Linkedin. 
+
+Thank you, 
+Jesal
 
 <!---
 jrpanchal/jrpanchal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
